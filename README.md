@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome!! let's learn a lot together
 
-<!--
-**Jhonatanfc94/Jhonatanfc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MS. Ingeniería biomédica, QA Automation and lead, Mechatronic enginner.
+Hi, I´m Jhonatan, In my spare time i like to search for technological articles on topics thatare in my head right now like programming languages or advances in
+artificial intelligence. I would like to be able to share what I learn with others.
+You can find videos about testing software [in my youtube channel](youtube.com/watch?v=lpnN4Fg99sA&list=PLubrKGMOvKsFl6PGB9bqwGB0JBmAEOT_E) feel free to reach out :)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57847341/120346700-9ccfa100-c2c9-11eb-8839-7fddd90ffb64.png" width="40%" height="40%">
+</p>
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on web page development and testing
+- 💬 Ask me about software testing, test develpment(java, python, selenium, appium, etc), test with API, operation of medical equipment, biomedical signals.
+- 📫 How to reach me: jhonatanfc94@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I´m also a violinist :P
+
+### Companies I´ve work for
+<p align="left">
+  <img src="https://global-uploads.webflow.com/5edad9d9bca2fa7d0a8c1de6/5edada12661a40a2a9af1fff_LogoCognits.svg" HSPACE="50">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQGnW1nePwPJ-g/company-logo_100_100/0/1585325629542?e=1630540800&v=beta&t=evwtPHVObCo8kqjQrVRc5Z-Dz76fGl8d6JIu6Bn3FlY" HSPACE="50">
+  <img src="https://d1.awsstatic.com/case-studies/digital-marketing/ufm%20logo.ac271a0bf20ec23caaf98a6ecca4a07a58e5590a.png" width="50%" height="50%">
+</p>
+
+### Hot links
+- [Twitter](https://twitter.com/jhonafc94)
+- [linkedin](https://www.linkedin.com/in/jhonatanfloresc/)
