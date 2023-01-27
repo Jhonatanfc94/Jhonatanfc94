@@ -3,7 +3,7 @@
 ### MS. Ingeniería biomédica, QA Automation and lead, Mechatronic enginner.
 Hi, I´m Jhonatan, In my spare time i like to search for technological articles on topics thatare in my head right now like programming languages or advances in
 artificial intelligence. I would like to be able to share what I learn with others.
-You can find videos about testing software [in my youtube channel](youtube.com/watch?v=lpnN4Fg99sA&list=PLubrKGMOvKsFl6PGB9bqwGB0JBmAEOT_E) feel free to reach out :)
+You can find videos about testing software [in my youtube channel](https://www.youtube.com/channel/UC3-FF-SyaeuFI6s3KbZ0Lzg) feel free to reach out :)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57847341/120346700-9ccfa100-c2c9-11eb-8839-7fddd90ffb64.png" width="40%" height="40%">
