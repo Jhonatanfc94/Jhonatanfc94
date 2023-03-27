@@ -10,11 +10,11 @@ You can find videos about testing software [in my youtube channel](https://www.y
 </p>
 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on web page development and testing
+- 👯 I’m looking to collaborate on software testing
 - 💬 Ask me about software testing, test develpment(java, python, selenium, appium, etc), test with API, operation of medical equipment, biomedical signals.
 - 📫 How to reach me: jhonatanfc94@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I´m also a violinist :P
+- ⚡ Fun fact: I´m also a violinist and photograper :P
 
 ### Companies I´ve work for
 <p align="left">
