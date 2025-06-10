@@ -18,7 +18,7 @@ You can find videos about testing software [in my youtube channel](https://www.y
 
 ### Companies I´ve work for
 <p align="left">
-  <img src="https://cdn.fastpixel.io/fp/ret_img+v_f636+q_glossy+to_webp/cognits.co/wp-content/uploads/2023/09/cognits.svg" width="50%" height="25%">
+  <img src="https://cdn.fastpixel.io/fp/ret_img+v_f636+q_glossy+to_webp/cognits.co/wp-content/uploads/2023/09/cognits.svg" width="25%" height="25%">
   <img src="https://d1.awsstatic.com/case-studies/digital-marketing/ufm%20logo.ac271a0bf20ec23caaf98a6ecca4a07a58e5590a.png" width="50%" height="25%">
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQErdGZSS2YjFg/company-logo_200_200/company-logo_200_200/0/1737389071790/grupocayala_logo?e=1755129600&v=beta&t=0xs1DoOgy_8ME_7TURQlUARJG1UqT6kv4XbspwPJEeQ" width="25%" height="25%">
 </p>
