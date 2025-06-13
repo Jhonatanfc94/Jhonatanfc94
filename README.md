@@ -6,7 +6,7 @@ artificial intelligence. I would like to be able to share what I learn with othe
 You can find videos about testing software [in my youtube channel](https://www.youtube.com/channel/UC3-FF-SyaeuFI6s3KbZ0Lzg) feel free to reach out :)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57847341/120346700-9ccfa100-c2c9-11eb-8839-7fddd90ffb64.png" width="40%" height="40%">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQGkIHzAkV4jLA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677443951822?e=1755129600&v=beta&t=lOfOv3C6PU9abIWgIOenwT_j4qQtfd22N8Bf9bU3nGk" width="40%" height="40%">
 </p>
 
 - 🌱 I’m currently learning ...
@@ -16,11 +16,12 @@ You can find videos about testing software [in my youtube channel](https://www.y
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I´m also a violinist and photograper :P
 
-### Companies I´ve work for
+### Certifications
 <p align="left">
-  <img src="https://cdn.fastpixel.io/fp/ret_img+v_f636+q_glossy+to_webp/cognits.co/wp-content/uploads/2023/09/cognits.svg" width="25%" height="25%">
-  <img src="https://d1.awsstatic.com/case-studies/digital-marketing/ufm%20logo.ac271a0bf20ec23caaf98a6ecca4a07a58e5590a.png" width="50%" height="25%">
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQErdGZSS2YjFg/company-logo_200_200/company-logo_200_200/0/1737389071790/grupocayala_logo?e=1755129600&v=beta&t=0xs1DoOgy_8ME_7TURQlUARJG1UqT6kv4XbspwPJEeQ" width="20%" height="20%">
+  <img src="https://www.istqb.org/wp-content/uploads/2024/10/istqb-logo.png" width="25%" height="25%">
+  <img src="https://avatars.githubusercontent.com/u/1459110?s=280&v=4" width="50%" height="25%">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="20%" height="20%">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="20%" height="20%">
 </p>
 
 ### Hot links
