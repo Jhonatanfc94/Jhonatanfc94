@@ -39,9 +39,9 @@ When not debugging code, I’m playing violin or capturing moments as a photogra
 
 ### 🏆 **Certifications**  
 <p align="left">
-  <a href="https://www.ibm.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" alt="IBM Logo" width="100">
-  </a>
   <img src="https://www.istqb.org/wp-content/uploads/2024/10/istqb-logo.png" width="80" alt="ISTQB">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" alt="AWS Certified">
+  <a href="https://www.ibm.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" alt="IBM Logo" width="80">
+  </a>
 </p>
