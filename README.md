@@ -19,8 +19,7 @@ You can find videos about testing software [in my youtube channel](https://www.y
 ### Certifications
 <p align="left">
   <img src="https://www.istqb.org/wp-content/uploads/2024/10/istqb-logo.png" width="25%" height="25%">
-  <img src="https://avatars.githubusercontent.com/u/1459110?s=280&v=4" width="50%" height="25%">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="20%" height="20%">
+  <img src="https://avatars.githubusercontent.com/u/1459110?s=280&v=4" width="15%" height="15%">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="20%" height="20%">
 </p>
 
